@@ -5,15 +5,15 @@
 - MySQL 5.6 or later
 
 # Technologies 
-Aws Cloud 
-Java Web Application
-Git Bash
-Godaddy DNS
-Route 53
-MySql
-RabbitMQ
-memcatched
-loadBalancer
+- Aws Cloud 
+- Java Web Application
+- Git Bash
+- Godaddy DNS
+- Route 53
+- MySql
+- RabbitMQ
+- memcatched
+- loadBalancer
 
 # Project Building Tool 
-Maven
+- Maven
