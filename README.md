@@ -34,7 +34,8 @@
 - ![image](https://user-images.githubusercontent.com/76225409/189743758-88e67b11-0b38-471c-8b60-2cee7fb3c18d.png)
 
 - WebApplication After Login as admin
-- ![image](https://user-images.githubusercontent.com/76225409/189744206-7fd9b405-d23e-476c-9e8a-fd85fa0cf121.png)
+- ![image](https://user-images.githubusercontent.com/76225409/189746283-e4beb64f-adb7-47c5-964e-90c0a080a58b.png)
+
 
 - Data Insertion Into Catch
 - ![image](https://user-images.githubusercontent.com/76225409/189744386-dd0ac8ef-4d7e-43e0-b707-ee7a39469fe0.png)
