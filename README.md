@@ -17,3 +17,7 @@
 
 # Project Building Tool 
 - Maven
+
+# Outputs 
+- Web Application Architecture
+- ![image](https://user-images.githubusercontent.com/76225409/189742550-51ad887a-5ca2-4a74-880a-3d2f2b18bf1e.png)
