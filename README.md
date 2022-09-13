@@ -26,6 +26,13 @@
 
 - Route-53
  ![image](https://user-images.githubusercontent.com/76225409/189743008-267c07e8-8c74-4357-8381-304245a8f052.png)
+ 
+- LoadBalancer
+ ![image](https://user-images.githubusercontent.com/76225409/189911374-0d2a9078-3aa1-497e-9c7c-a217315c7b3c.png)
+ 
+- Auto Scalling Group
+ ![image](https://user-images.githubusercontent.com/76225409/189910324-4b5e6073-9883-4506-9f50-58c69c752505.png)
+
 
 - S3-Bucket
  ![image](https://user-images.githubusercontent.com/76225409/189743330-6ed5b0ad-b3b9-4dd4-81db-ca1cda19de4d.png)
