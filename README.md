@@ -4,7 +4,7 @@
 - Maven 3 or later
 - MySQL 5.6 or later
 
-# Technologies 
+# Technologies And Service Configured
 - Aws Cloud 
 - Java Web Application
 - Git Bash
@@ -14,12 +14,18 @@
 - RabbitMQ
 - memcatched
 - loadBalancer
+- AutoScalling 
 
 # Project Building Tool 
 - Maven
 
 # Outputs 
-- Web Application Architecture
+- Web Application Local Architecture 
+![image](https://user-images.githubusercontent.com/76225409/189914047-80b93af4-1497-4675-a124-98b5d04e1bfa.png)
+
+- Web Application AWS Cloud Architecture with Hight Avalability
+![image](https://user-images.githubusercontent.com/76225409/189914483-d1366c09-02c4-494c-9b9c-c02b93e301eb.png)
+
 
 - Ec2-Instances
  ![image](https://user-images.githubusercontent.com/76225409/189742550-51ad887a-5ca2-4a74-880a-3d2f2b18bf1e.png)
