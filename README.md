@@ -21,7 +21,8 @@
 
 # Outputs 
 - Web Application Local Architecture 
-![image](https://user-images.githubusercontent.com/76225409/189914047-80b93af4-1497-4675-a124-98b5d04e1bfa.png)
+![image](https://user-images.githubusercontent.com/76225409/190418879-c74a408a-c017-47f3-b9ce-6d02533f01f2.png)
+
 
 - Web Application AWS Cloud Architecture with Hight Avalability
 ![image](https://user-images.githubusercontent.com/76225409/189914483-d1366c09-02c4-494c-9b9c-c02b93e301eb.png)
