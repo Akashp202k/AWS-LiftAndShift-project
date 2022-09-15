@@ -12,7 +12,7 @@
 - Route 53
 - MySql
 - RabbitMQ
-- memcatched
+- memcached
 - loadBalancer
 - AutoScalling 
 
