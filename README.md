@@ -25,7 +25,7 @@
 
 
 - Web Application AWS Cloud Architecture with Hight Avalability
-![image](https://user-images.githubusercontent.com/76225409/189914483-d1366c09-02c4-494c-9b9c-c02b93e301eb.png)
+![image](https://user-images.githubusercontent.com/76225409/190419259-cf097760-114b-41a0-9661-d854c3a58553.png)
 
 
 - Ec2-Instances
